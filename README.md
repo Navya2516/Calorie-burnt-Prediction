@@ -80,31 +80,6 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## Running the Application
-
-Start the FastAPI application:
-
-```bash
-python app.py
-```
-
-or
-
-```bash
-uvicorn app:app --reload
-```
-
-Then open your browser and go to:
-
-```
-http://localhost:8000
-```
-
-Enter the required inputs to get the **calorie burn prediction**.
-
----
-
 ## Technologies Used
 
 * Python
