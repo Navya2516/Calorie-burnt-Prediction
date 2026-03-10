@@ -106,7 +106,7 @@ This project demonstrates:
 ## Author
 
 **Navya Saravanan**
-Artificial Intelligence and Machine Learning Student
+AIML Student
 
 🔗 GitHub
 https://github.com/Navya2516
